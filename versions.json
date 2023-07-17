@@ -6,5 +6,6 @@
     "sf-roulette":"1.0.2",
     "sf-tcp":"1.0.2",
     "sf-blackjack":"1.0.3",
-    "sf-casinoutils":"1.0.2"
+    "sf-casinoutils":"1.0.2",
+    "sf-policeradar":"1.0.0"
 }
