@@ -1,15 +1,15 @@
 {
-    "sf-slots":"1.0.1",
+    "sf-slots":"1.1.0",
     "sf-minerjob":"2.0.1",
     "sf-speedgun":"1.0.0",
-    "sf-luckywheel":"1.0.4",
-    "sf-roulette":"1.0.6",
-    "sf-tcp":"1.0.6",
-    "sf-blackjack":"1.1.0",
+    "sf-luckywheel":"1.0.5",
+    "sf-roulette":"1.0.7",
+    "sf-tcp":"1.0.7",
+    "sf-blackjack":"1.1.1",
     "sf-casinoutils":"1.0.4",
-    "sf-policeradar":"1.0.3",
+    "sf-policeradar":"1.0.4",
     "sf-farmerjob":"1.0.1",
     "sf-plumberjob":"1.0.1",
     "sf-jobsystem":"1.0.1",
-    "sf-texasholdem":"1.0.2"
+    "sf-texasholdem":"1.0.3"
 }
